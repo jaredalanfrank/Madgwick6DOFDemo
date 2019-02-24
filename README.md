@@ -1,0 +1,1 @@
+This project implements the 6DOF Madgwick Filter on data read from the accelerometer and gyroscope.
